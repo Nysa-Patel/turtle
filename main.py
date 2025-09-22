@@ -6,6 +6,7 @@ import turtle
 import math
 
 t = turtle.Turtle()
+#screen=turtle.Screen()
 t.screen.tracer(0,0)
 
 t.penup()
